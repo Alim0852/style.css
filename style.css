@@ -1,0 +1,74 @@
+* {
+  padding: auto;
+  margin: 2px;
+}
+
+.p0 {
+  text-align: justify;
+  color: rgb(0, 0, 0);
+  background-color: rgb(217, 219, 63);
+}
+body {
+  background-color: rgb(141, 160, 153);
+}
+.home {
+  background-color: #fff;
+}
+.heading1 {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+
+.heading2 {
+  background-color: lightskyblue;
+  color: red;
+  text-transform: capitalize;
+}
+.p1 {
+  font-style: italic;
+  font-weight: 400;
+}
+.p2 {
+  font-weight: 900;
+  color: #ac1515;
+}
+.p3 {
+  text-decoration: underline;
+}
+.p4 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.p5 {
+  color: violet;
+}
+.p6 {
+  background-color: gold;
+  color: #fff;
+}
+.p7 {
+  color: black;
+  background-color: lightgreen;
+}
+.heading3 {
+  color: #ac1515;
+  background-color: antiquewhite;
+  text-transform: capitalize;
+}
+.p8 {
+  color: rgb(99, 99, 99);
+}
+.first > li > a {
+  color: rgb(2, 88, 2);
+  background-color: rgb(181, 255, 181);
+}
+.p9 {
+  color: rgb(99, 99, 99);
+}
+.p10 {
+  color: gold;
+  background-color: #e4e4e4;
+}
+.p11 {
+  color: rgb(88, 88, 88);
+}
