@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lemon&family=Rubik+Burned&display=swap");
+
 * {
   padding: auto;
   margin: 2px;
@@ -71,4 +73,12 @@ body {
 }
 .p11 {
   color: rgb(88, 88, 88);
+}
+.p12 {
+  font-size: 25px;
+}
+.p13 {
+  font-family: "Rubik Burned", system-ui;
+  font-size: 25px;
+  color: blue;
 }
